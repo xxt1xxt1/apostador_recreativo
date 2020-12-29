@@ -1,2 +1,2 @@
-# apostador_recreativo
-Bot para aposta recreativa
+apostador recreativo
+Bot para aposta esportiva 
